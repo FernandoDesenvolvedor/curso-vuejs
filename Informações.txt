@@ -1,0 +1,6 @@
+Configuração inicial do GIT
+
+Identidade
+git config --global user.name "Fernando Afonso'
+git config --global user.email "fernandoafonsotrp@gmail.com'
+
